@@ -9,6 +9,6 @@
     "start:named": "node src/index.js -- --username=Alexander",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Alexander Son",
+  "author": "muhammadqodir",
   "license": "ISC"
 }
